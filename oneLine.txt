@@ -1,1 +1,1 @@
-A
+Yet another txt file to test remote desktop capability.
