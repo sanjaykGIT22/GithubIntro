@@ -6,3 +6,5 @@ bananas
 pinaple
 cherries
 Cereal
+
+Adding another item in branch: chicken
